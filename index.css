@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+
+div {
+    width:autp;
+    align-items: center;
+    padding: 8px;
+    border: 10px solid gray;;
+    margin: 50px;
+}
+
+ul{
+    text-align: center;
+    list-style: inside;
+}
